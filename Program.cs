@@ -12,7 +12,7 @@ namespace TesteGIT
         {
             Console.WriteLine("HEllo Word");
             Console.WriteLine("Bom dia");
-            Console.WriteLine("Como você está");
+            Console.WriteLine("Tenha Bom dia");
         }
     }
 }
