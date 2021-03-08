@@ -11,6 +11,7 @@ namespace TesteGIT
         static void Main(string[] args)
         {
             Console.WriteLine("HEllo Word");
+            Console.WriteLine("Bom dia");
         }
     }
 }
